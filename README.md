@@ -39,21 +39,6 @@ git clone https://github.com/mohaimenulislamshawon/free-amazon-review-exporter-e
 
 ---
 
-### How It Works
-
-- **Content Script**:  
-  The `content.js` script scans the Amazon product page for review texts using the `data-hook="review-body"` attribute.
-
-- **Background Script**:  
-  The `background.js` script manages the storage of reviews and ensures no duplicates are saved.
-
-- **Popup Interface**:  
-  The `popup.html` and `popup.js` files provide a user-friendly interface to view and copy the reviews.
-
-Here’s a well-structured section for your `README.md` file that highlights the current limitations of the extension and invites contributors to help improve it. This will encourage developers to contribute by addressing these gaps.
-
----
-
 ### **Known Limitations and Areas for Improvement**
 
 While this extension is functional and provides a solid foundation for scraping Amazon reviews, there are several areas where it can be improved. Contributions are highly encouraged to address these limitations and make the extension even more powerful and user-friendly.
