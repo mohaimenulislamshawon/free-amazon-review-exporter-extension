@@ -98,7 +98,7 @@ While this extension is functional and provides a solid foundation for scraping 
 We welcome contributions from developers who want to help improve this extension! Here are some ways you can get involved:
 
 1. **Pick an Issue**:
-   - Browse the [Issues](https://github.com/yourusername/amazon-review-exporter/issues) tab to find tasks that need attention.
+   - Browse the [Issues](https://github.com/mohaimenulislamshawon/free-amazon-review-exporter-extension/issues) tab to find tasks that need attention.
    - Comment on the issue to let others know you're working on it.
 
 2. **Submit a Pull Request**:
