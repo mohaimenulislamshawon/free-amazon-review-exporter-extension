@@ -21,7 +21,7 @@ This is a free and open-source Chrome extension designed to scrape and export Am
 ## Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/amazon-review-exporter.git
+git clone https://github.com/mohaimenulislamshawon/free-amazon-review-exporter-extension.git
 
 ### 2. Load the Extension in Chrome
 - Open Chrome and navigate to `chrome://extensions/` .
