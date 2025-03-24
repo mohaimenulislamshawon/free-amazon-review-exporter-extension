@@ -36,3 +36,16 @@ git clone https://github.com/yourusername/amazon-review-exporter.git
 2. Click on the extension icon in the Chrome toolbar.
 3. The popup will display all scraped reviews from the page.
 4. Use the **Copy All** button to copy the reviews to your clipboard.
+
+---
+
+### How It Works
+
+- **Content Script**:  
+  The `content.js` script scans the Amazon product page for review texts using the `data-hook="review-body"` attribute.
+
+- **Background Script**:  
+  The `background.js` script manages the storage of reviews and ensures no duplicates are saved.
+
+- **Popup Interface**:  
+  The `popup.html` and `popup.js` files provide a user-friendly interface to view and copy the reviews.
