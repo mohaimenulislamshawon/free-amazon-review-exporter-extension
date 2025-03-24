@@ -24,6 +24,15 @@ This is a free and open-source Chrome extension designed to scrape and export Am
 git clone https://github.com/yourusername/amazon-review-exporter.git
 
 ### 2. Load the Extension in Chrome
-Open Chrome and navigate to chrome://extensions/ .
-Enable Developer mode (toggle in the top-right corner).
-Click Load unpacked and select the amazon-review-exporter folder.
+- Open Chrome and navigate to chrome://extensions/ .
+- Enable Developer mode (toggle in the top-right corner).
+- Click Load unpacked and select the amazon-review-exporter folder.
+
+---
+
+### Usage
+
+1. Navigate to any Amazon product page with reviews.
+2. Click on the extension icon in the Chrome toolbar.
+3. The popup will display all scraped reviews from the page.
+4. Use the **Copy All** button to copy the reviews to your clipboard.
